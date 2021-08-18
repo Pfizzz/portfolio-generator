@@ -52,9 +52,7 @@ function renderLicenseLink(license) {
   function renderLicenseSection(license) {
     const licenseLink = renderLicenseLink(license);
     const licenseText = `This project is licensed under [${license}](${licenseLink})`;
-
-    return `## License 
-    ${licenseText}`;
+    return `${licenseText}`;
     }
   
 
@@ -62,7 +60,31 @@ function renderLicenseLink(license) {
 // TODO: Create a function to generate markdown for README
 function generateMarkdown(data) {
   return `# ${data.title}
+  ${renderLicenseBadge(data.license)}
+## Description
+${data.description}
+## Table of Contents
+* [Installation](#installation)
+* [Usage Information](#usage)
+* [Contribution Guidelines](#contributing)
+* [Tests](#test)
+* [Questions](#questions)
+
+## Installation Instructions
+${data.installation}
+## Usage Information
+${data.usage}
+## Contribution Guidelines
+${data.contributing}
+## Tests
+${data.test}
+## License
+${renderLicenseBadge(data.license)}
+
 ${renderLicenseSection(data.license)}
+## Questions
+### Github Profile: (https://github.com/${data.username}/)
+### Contact E-mail: ${data.email}
 `;
 }
 

@@ -45,7 +45,7 @@ const questions = [
     {
         type: "input",
         message: "Please provide installation instructions",
-        name: "Installation",
+        name: "installation",
     },
     {
         type: "input",
@@ -72,8 +72,8 @@ const questions = [
         type: "input",
         message: "Please enter your Github username (Required)",
         name: "username",
-        validate: description => {
-        if (description) {
+        validate: username => {
+        if (username) {
             return true;
         } else {
             console.log("Please enter your Github username");
@@ -83,7 +83,7 @@ const questions = [
     {
         type: "input",
         message: "Please enter your e-mail address",
-        name: "e-mail",
+        name: "email",
         validate: email => {
             if (email) {
                 return true;
