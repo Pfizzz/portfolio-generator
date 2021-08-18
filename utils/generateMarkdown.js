@@ -70,11 +70,11 @@ ${data.description}
 * [Tests](#test)
 * [Questions](#questions)
 
-## Installation Instructions
+## Installation
 ${data.installation}
-## Usage Information
+## Usage
 ${data.usage}
-## Contribution Guidelines
+## Contributing
 ${data.contributing}
 ## Tests
 ${data.test}
@@ -83,8 +83,10 @@ ${renderLicenseBadge(data.license)}
 
 ${renderLicenseSection(data.license)}
 ## Questions
-### Github Profile: (https://github.com/${data.username}/)
-### Contact E-mail: ${data.email}
+### Github Profile: 
+[Github](https://github.com/${data.username}/)
+### Contact E-mail: 
+If you would like to contact me with additional questions, I may be reached at ${data.email}.
 `;
 }
 
