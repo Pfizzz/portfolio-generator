@@ -1,7 +1,7 @@
-# fsdfdsfsdfsd
-  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+# README-Generator
+  [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
 ## Description
-fsddsffsdsfd
+This is a node.js app that takes user input prompted at the command line and generates a professional README file
 ## Table of Contents
 * [Installation](#installation)
 * [Usage Information](#usage)
@@ -10,19 +10,19 @@ fsddsffsdsfd
 * [Questions](#questions)
 
 ## Installation
-dsfsdff
+Initialize a new local repo, clone the repository for this project, and install node.js. The app may be run from the command line using "node index" when the user is in the local repo directory.
 ## Usage
-sfdsdfdsf
+The app may be run from the command line using "node index" when the user is in the local repo directory. Answer the questions, making sure to enter the correct information for REQUIRED fields. The user may choose to skip some options.
 ## Contributing
-dsfdsffsd
-## Tests
-dfssdfdsf
-## License
-[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-This project is licensed under [Apache 2.0](https://opensource.org/licenses/Apache-2.0).
+## Tests
+
+## License
+[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+
+This project is licensed under [Creative Commons](http://creativecommons.org/publicdomain/zero/1.0/).
 ## Questions
 ### Github Profile: 
-[Github](https://github.com/dsfdfs/)
+[Github](https://github.com/pfizzz/)
 ### Contact E-mail: 
-If you would like to contact me with additional questions, I may be reached at dfsdfs.
+If you would like to contact me with additional questions, I may be reached at pfiste80@gmail.com.
