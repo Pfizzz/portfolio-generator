@@ -51,7 +51,7 @@ function renderLicenseLink(license) {
 
   function renderLicenseSection(license) {
     const licenseLink = renderLicenseLink(license);
-    const licenseText = `This project is licensed under [${license}](${licenseLink})`;
+    const licenseText = `This project is licensed under [${license}](${licenseLink}).`;
     return `${licenseText}`;
     }
   

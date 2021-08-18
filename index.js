@@ -76,7 +76,7 @@ const questions = [
         if (username) {
             return true;
         } else {
-            console.log("Please enter your Github username");
+            console.log("Please enter your Github username.");
         }
         }
     },

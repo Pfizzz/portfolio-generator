@@ -1,7 +1,7 @@
-# Sea Turtle Tracker
-  [![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+# fsdfdsfsdfsd
+  [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 ## Description
-According to "See-Turtles," an internet database dedicated to turtle research, "Most sea turtles migrate between foraging and nesting grounds, and seasonally to warmer waters. Often these migrations take them hundreds and even thousands of miles. With satellite telemetry, scientists can track the movements of sea turtles between areas and even across entire oceans." This app tracks these movements.
+fsddsffsdsfd
 ## Table of Contents
 * [Installation](#installation)
 * [Usage Information](#usage)
@@ -10,19 +10,19 @@ According to "See-Turtles," an internet database dedicated to turtle research, "
 * [Questions](#questions)
 
 ## Installation
-Install this by contacting a local sea turtle, who will come in with the next tide to assist you.
+dsfsdff
 ## Usage
-You may use this as long as you are a sea turtle enthusiast.
+sfdsdfdsf
 ## Contributing
-Sea turtles may contribute with appropriate attribution.
+dsfdsffsd
 ## Tests
-Make sure the turtle is awake.
+dfssdfdsf
 ## License
-[![License: CC0-1.0](https://img.shields.io/badge/License-CC0%201.0-lightgrey.svg)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 
-This project is licensed under [Creative Commons](http://creativecommons.org/publicdomain/zero/1.0/)
+This project is licensed under [Apache 2.0](https://opensource.org/licenses/Apache-2.0).
 ## Questions
 ### Github Profile: 
-[Github](https://github.com/pfizzz/)
+[Github](https://github.com/dsfdfs/)
 ### Contact E-mail: 
-If you would like to contact me with additional questions, I may be reached at pfiste80@gmail.com.
+If you would like to contact me with additional questions, I may be reached at dfsdfs.
